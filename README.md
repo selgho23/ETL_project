@@ -1,7 +1,7 @@
 # Transportation in California
 
 ## Project Summary
-<img src='https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'>
+<img src='https://raw.githubusercontent.com/selgho23/ETL_project/master/Resources/schema.png'>
 
 ## Results
 - other stuff
