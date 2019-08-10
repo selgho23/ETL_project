@@ -1,8 +1,8 @@
 # Transportation in California
 
 ## Project Summary
-<img width='500'
-     height='500'
+<img width='400'
+     height='300'
      src='https://raw.githubusercontent.com/selgho23/ETL_project/master/Resources/schema.png'>
 
 ## Results
