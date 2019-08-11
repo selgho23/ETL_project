@@ -12,4 +12,5 @@
      height='300'
      src='https://raw.githubusercontent.com/selgho23/ETL_project/master/Resources/schema.png'>
 
-- You can find a more detailed description of our ETL process in [Project Report].
+- You can find a more detailed description of our ETL process in [Tech_Report.docx](https://github.com/selgho23/ETL_project/raw/master/Tech_Report.docx
+).
