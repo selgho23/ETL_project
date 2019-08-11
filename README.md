@@ -6,6 +6,7 @@
     - [Road Traffic Injuries](https://data.chhs.ca.gov/dataset/road-traffic-injuries-2002-2010/resource/cdb50347-6fe1-456e-a336-d7daf0aba595)
 
 - After exploring the datasets, we filtered out extraneous data, organized what remained into category specific tables, and cleaned relevant columns.
+    - This exploration and data processing was performed in [ETL_code.ipynb](https://github.com/selgho23/ETL_project/blob/master/ETL_code.ipynb)
 
 - The tables were loaded into a database  with the following schema.
 <img width='500'
